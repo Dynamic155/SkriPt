@@ -197,8 +197,6 @@ if isExistance then
 	Container:Destroy()
 end
 
--- script converted by saypotato
-
 local T = game:GetService('TweenService')
 local t = TweenInfo.new(0.5, Enum.EasingStyle.Quint)
 local tp = NotificationParent
